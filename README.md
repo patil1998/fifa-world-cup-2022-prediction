@@ -7,6 +7,7 @@ Also, a success prediction algorithm for matches.
 
 Images:
 OUTPUTs of Football Data Analysis:
+
 Total Fifa Matches data:
 ![image](https://github.com/patil1998/fifa-world-cup-2022-prediction/assets/46234517/01616e8d-1b80-4660-bcf3-19cfeecfe582)
  
